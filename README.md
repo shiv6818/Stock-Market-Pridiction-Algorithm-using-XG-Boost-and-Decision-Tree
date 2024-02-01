@@ -32,12 +32,6 @@ Follow the on-screen prompts to input relevant data and receive stock prediction
 Contributing
 Contributions are welcome! Please follow the Contribution Guidelines.
 
-License
-This project is licensed under the MIT License.
-
 Acknowledgments
-Special thanks to [Author Name] for their insightful contributions.
-References
-[Reference 1 Title]
-[Reference 2 Title]
+Special thanks to [Shivanand Thakur] for their insightful contributions.
 For more details, refer to the Documentation.
